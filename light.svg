@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f8fa"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#8250df"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)" stroke="#d0d7de"/>
+  <circle cx="1040" cy="72" r="92" fill="#0969da" opacity=".08"/>
+  <circle cx="1110" cy="205" r="130" fill="#8250df" opacity=".07"/>
+  <path d="M0 250 C180 190 260 300 430 235 S720 140 900 210 S1080 250 1200 180" fill="none" stroke="url(#line)" stroke-width="4" opacity=".75"/>
+  <text x="70" y="105" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Apurva Nikam</text>
+  <text x="70" y="155" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="24">B.Tech CSE Student • AI/ML • Software Development</text>
+  <text x="70" y="198" fill="#6e7781" font-family="Arial, Helvetica, sans-serif" font-size="18">Learning by building practical projects.</text>
+  <circle cx="1060" cy="145" r="42" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="1060" y="158" text-anchor="middle" fill="#0969da" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">&lt;/&gt;</text>
+</svg>

@@ -140,7 +140,7 @@ Building projects, coding ideas, hackathons, and my journey as a CSE student.
 
 ## 📫 How to Reach Me
 
-<a href="https://www.linkedin.com/in/apurvasnikam">LinkedIn</a>
+<a href="nikamapurva25@gmail.com">Gmail</a>
 
 ---
 
